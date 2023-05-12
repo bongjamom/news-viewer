@@ -1,6 +1,5 @@
 import React from 'react';
 import { styled } from 'styled-components';
-import { css } from 'styled-components';
 import { NavLink } from '../../node_modules/react-router-dom/dist/index';
 
 const categories = [
